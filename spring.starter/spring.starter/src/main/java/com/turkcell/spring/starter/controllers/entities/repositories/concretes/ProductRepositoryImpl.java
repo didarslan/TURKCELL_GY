@@ -1,7 +1,7 @@
 package com.turkcell.spring.starter.controllers.entities.repositories.concretes;
 
 // Veri erişimini yönet
-// deneme
+// deneme:
 import com.turkcell.spring.starter.controllers.entities.Product;
 import com.turkcell.spring.starter.controllers.entities.repositories.abstracts.ProductRepository;
 import org.springframework.stereotype.Service;
